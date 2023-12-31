@@ -302,5 +302,13 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "name": {
+    "file_name": "name.json",
+    "file_sha1": "743ceb632d7b936c77e4d157e757e394aee6eab7"
+  },
+  "base_info": {
+    "file_name": "base_info.json",
+    "file_sha1": "54dc187d0f09f9780cec91d5bc9167c43ad14894"
   }
 }
